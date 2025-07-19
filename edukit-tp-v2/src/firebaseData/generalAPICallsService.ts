@@ -30,7 +30,7 @@ export class GeneralAPICallsService {
 
 async updateUserDataInFirestore(user: UserProfile) {
   const url = this.baseURL + "/users/update-whole-user/" + user.user_id;
-  const userBody = JSON.stringify({ user_updates: user });
+  const userBody = JSON.stringify(user); // 🔧 HIER
 
   const res = await fetch(url, {
     method: "PUT",
@@ -40,9 +40,8 @@ async updateUserDataInFirestore(user: UserProfile) {
     body: userBody,
   });
 
-  // 🔍 Prüfe explizit auf Fehlermeldung (z. B. 422 Unprocessable Content)
   if (!res.ok) {
-    const text = await res.text(); // Nicht immer JSON!
+    const text = await res.text();
     console.error(`❌ Fehler beim User-Update (${res.status}):`, text);
     throw new Error(`Backend-Fehler ${res.status}: ${text}`);
   }
@@ -50,6 +49,7 @@ async updateUserDataInFirestore(user: UserProfile) {
   const data = await res.json();
   return data;
 }
+
 
 
 

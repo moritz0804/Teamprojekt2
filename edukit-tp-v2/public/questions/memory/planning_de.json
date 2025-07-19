@@ -1,102 +1,102 @@
 [
   {
-    "id": "planning-k4-en-m1",
-    "term": "Low-cost factory",
-    "definition": "Factory focused on minimizing production costs."
+    "id": "planning-k4-de-m1",
+    "term": "Niedrigkostenfabrik",
+    "definition": "Fabrik mit Fokus auf Minimierung der Produktionskosten."
   },
   {
-    "id": "planning-k4-en-m2",
-    "term": "Customer-specific factory",
-    "definition": "Manufactures customized products in large quantities."
+    "id": "planning-k4-de-m2",
+    "term": "Kundenspezifische Fabrik",
+    "definition": "Stellt kundenspezifische Produkte in großen Stückzahlen her."
   },
   {
-    "id": "planning-k4-en-m3",
-    "term": "Responsive factory",
-    "definition": "Market-oriented factory with high delivery capability."
+    "id": "planning-k4-de-m3",
+    "term": "Reaktionsfähige Fabrik",
+    "definition": "Marktorientierte Fabrik mit hoher Lieferfähigkeit."
   },
   {
-    "id": "planning-k4-en-m4",
-    "term": "Rough layout planning",
-    "definition": "Key activity within concept planning."
+    "id": "planning-k4-de-m4",
+    "term": "Grob layoutplanung",
+    "definition": "Zentrale Aktivität innerhalb der Konzeptplanung."
   },
   {
-    "id": "planning-k4-en-m5",
-    "term": "Modularity",
-    "definition": "Use of standardized functional units."
+    "id": "planning-k4-de-m5",
+    "term": "Modularität",
+    "definition": "Verwendung standardisierter Funktionseinheiten."
   },
   {
-    "id": "planning-k4-en-m6",
-    "term": "Ramp-up and series support",
-    "definition": "Ensures production ramp-up and target achievement."
+    "id": "planning-k4-de-m6",
+    "term": "Anlauf- und Serienbetreuung",
+    "definition": "Sichert Produktionsanlauf und Zielerreichung."
   },
   {
-    "id": "planning-k4-en-m7",
-    "term": "Greenfield approach",
-    "definition": "Factory planning from scratch without existing structures."
+    "id": "planning-k4-de-m7",
+    "term": "Greenfield-Ansatz",
+    "definition": "Fabrikplanung von Grund auf ohne bestehende Strukturen."
   },
   {
-    "id": "planning-k4-en-m8",
-    "term": "Process flexibility",
-    "definition": "Ability to implement known variants on short notice."
+    "id": "planning-k4-de-m8",
+    "term": "Prozessflexibilität",
+    "definition": "Fähigkeit, bekannte Varianten kurzfristig umzusetzen."
   },
   {
-    "id": "planning-k4-en-m9",
-    "term": "Detail planning",
-    "definition": "Involves the detailed design of operational equipment."
+    "id": "planning-k4-de-m9",
+    "term": "Detailplanung",
+    "definition": "Beinhaltet die detaillierte Ausgestaltung der Betriebsmittel."
   },
   {
-    "id": "planning-k4-en-m10",
-    "term": "Routing flexibility",
-    "definition": "Ability to choose between different production routes."
+    "id": "planning-k4-de-m10",
+    "term": "Routing-Flexibilität",
+    "definition": "Fähigkeit zur Wahl zwischen verschiedenen Produktionsrouten."
   },
   {
-    "id": "planning-k4-en-m11",
-    "term": "Breathing factory",
-    "definition": "Adjusts capacity to fluctuating demand."
+    "id": "planning-k4-de-m11",
+    "term": "Atmende Fabrik",
+    "definition": "Passt Kapazitäten an schwankende Nachfrage an."
   },
   {
-    "id": "planning-k4-en-m12",
-    "term": "Goal definition",
-    "definition": "Derives concrete planning parameters for the factory."
+    "id": "planning-k4-de-m12",
+    "term": "Zieldefinition",
+    "definition": "Leitet konkrete Planungsparameter für die Fabrik ab."
   },
   {
-    "id": "planning-k4-en-m13",
-    "term": "Volume flexibility",
-    "definition": "Allows adjustment of production capacity."
+    "id": "planning-k4-de-m13",
+    "term": "Mengenflexibilität",
+    "definition": "Ermöglicht Anpassung der Produktionskapazität."
   },
   {
-    "id": "planning-k4-en-m14",
-    "term": "Phase following concept planning",
-    "definition": "Detail planning."
+    "id": "planning-k4-de-m14",
+    "term": "Phase nach der Konzeptplanung",
+    "definition": "Detailplanung."
   },
   {
-    "id": "planning-k4-en-m15",
-    "term": "Lot size 1",
-    "definition": "Typical for customer-specific production under series conditions."
+    "id": "planning-k4-de-m15",
+    "term": "Losgröße 1",
+    "definition": "Typisch für kundenspezifische Produktion unter Serienbedingungen."
   },
   {
-    "id": "planning-k4-en-m16",
-    "term": "Compatibility",
-    "definition": "Achieved through standardized machine interfaces."
+    "id": "planning-k4-de-m16",
+    "term": "Kompatibilität",
+    "definition": "Erreicht durch standardisierte Maschinenschnittstellen."
   },
   {
-    "id": "planning-k4-en-m17",
-    "term": "Concept planning",
-    "definition": "Goal: develop and evaluate rough layout variants."
+    "id": "planning-k4-de-m17",
+    "term": "Konzeptplanung",
+    "definition": "Ziel: Entwicklung und Bewertung von Groblayoutvarianten."
   },
   {
-    "id": "planning-k4-en-m18",
-    "term": "Routing flexibility",
-    "definition": "Ability to choose between different process paths."
+    "id": "planning-k4-de-m18",
+    "term": "Routing-Flexibilität",
+    "definition": "Fähigkeit zur Wahl zwischen verschiedenen Prozesswegen."
   },
   {
-    "id": "planning-k4-en-m19",
-    "term": "Standardized infrastructure",
-    "definition": "Increases a factory’s ability to adapt."
+    "id": "planning-k4-de-m19",
+    "term": "Standardisierte Infrastruktur",
+    "definition": "Erhöht die Anpassungsfähigkeit einer Fabrik."
   },
   {
-    "id": "planning-k4-en-m20",
-    "term": "Implementation monitoring",
-    "definition": "Monitors construction, conversion, and commissioning of the factory."
+    "id": "planning-k4-de-m20",
+    "term": "Umsetzungsüberwachung",
+    "definition": "Überwacht Bau, Umbau und Inbetriebnahme der Fabrik."
   }
 ]

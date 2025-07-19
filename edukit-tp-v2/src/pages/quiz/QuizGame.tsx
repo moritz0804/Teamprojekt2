@@ -291,6 +291,10 @@ const QuizGame = () => {
                 (current.max_points + questionCount),
               last_played: new Date().toISOString(),
             },
+            total_points:
+              (user.user_game_information.memory?.total_points || 0) +
+              (user.user_game_information.gapfill?.total_points || 0) +
+              (current.total_points + score),
           },
         };
 

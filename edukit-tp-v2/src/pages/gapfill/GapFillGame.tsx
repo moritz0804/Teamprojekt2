@@ -288,12 +288,16 @@ const GapFillGame = () => {
                 (current.max_points + playedQuestions),
               last_played: new Date().toISOString(),
             },
+            total_points:
+              (user.user_game_information.quiz?.total_points || 0) +
+              (user.user_game_information.memory?.total_points || 0) +
+              (current.total_points + score),
           },
         };
 
         setUser(updatedUser);
         untrackedChanges();
-        await flushUser();
+        await flushUser(updatedUser);
         console.log("📊 GapFill flushUser erfolgreich");
       } catch (err) {
         console.error(

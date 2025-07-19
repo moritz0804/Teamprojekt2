@@ -15,17 +15,15 @@ import { GeneralAPICallsService } from "../../../firebaseData/generalAPICallsSer
 
 type GameKey = "quiz" | "gapfill" | "memory";
 
-
 type GeneralType = {
   highscore: number;
   highscoreTableRanking: number;
   totalPoints: number;
   dailyPointsGoal: number;
   lastPlayedAllGameTypes: string[]; //first position type, second position timestamp
-}
+};
 
 type GameStats = {
-  
   totalGames: number;
   totalPoints: number;
   maxPoints: number;
@@ -34,94 +32,96 @@ type GameStats = {
   lastPlayed: string;
   repetitionContent: string[];
   answeredCorrectlyContent: string[];
+};
 
-}
-
-type GameStatsBackend = Record <GameKey, GameStats>;
-
+type GameStatsBackend = Record<GameKey, GameStats>;
 
 const Stats = () => {
   const { t } = useTranslation();
   const { user } = useBackendUserContext();
   const generalAPICallsService = new GeneralAPICallsService();
 
-
-
   if (!user) return <div>Loading...</div>;
 
-   const statsBackend = useMemo(() => {
+  const statsBackend = useMemo(() => {
     const gi = user.user_game_information;
 
     const gameStats: GameStatsBackend = {
       quiz: {
         totalGames: gi.quiz.total_games,
         totalPoints: gi.quiz.total_points,
-        maxPoints: gi.quiz.best_Score,
+        maxPoints: gi.quiz.max_points,
         bestScore: gi.quiz.best_Score,
         accuracy: gi.quiz.accuracy,
         lastPlayed: gi.quiz.last_played,
         repetitionContent: gi.quiz.repetition_content,
-        answeredCorrectlyContent: gi.quiz.answered_correctly_content
+        answeredCorrectlyContent: gi.quiz.answered_correctly_content,
       },
       memory: {
         totalGames: gi.memory.total_games,
         totalPoints: gi.memory.total_points,
-        maxPoints: gi.memory.best_Score,
+        maxPoints: gi.memory.max_points,
         bestScore: gi.memory.best_Score,
         accuracy: gi.memory.accuracy,
         lastPlayed: gi.memory.last_played,
         repetitionContent: gi.memory.repetition_content,
-        answeredCorrectlyContent: gi.memory.answered_correctly_content
-
+        answeredCorrectlyContent: gi.memory.answered_correctly_content,
       },
       gapfill: {
         totalGames: gi.gapfill.total_games,
         totalPoints: gi.gapfill.total_points,
-        maxPoints: gi.gapfill.best_Score,
+        maxPoints: gi.gapfill.max_points,
         bestScore: gi.gapfill.best_Score,
         accuracy: gi.gapfill.accuracy,
         lastPlayed: gi.gapfill.last_played,
         repetitionContent: gi.gapfill.repetition_content,
-        answeredCorrectlyContent: gi.gapfill.answered_correctly_content
-
+        answeredCorrectlyContent: gi.gapfill.answered_correctly_content,
       },
-      
     };
 
     const generalStats: GeneralType = {
-       
-        highscore: gi.highscore,
-        highscoreTableRanking: gi.highscore_table_ranking,
-        totalPoints: gi.total_points,
-        dailyPointsGoal: gi.daily_points_goal,
-        lastPlayedAllGameTypes: gi.last_played_all_game_types,
-      
-    }
+      highscore: gi.highscore,
+      highscoreTableRanking: gi.highscore_table_ranking,
+      totalPoints: gi.total_points,
+      dailyPointsGoal: gi.daily_points_goal,
+      lastPlayedAllGameTypes: gi.last_played_all_game_types,
+    };
 
     return { gameStats, generalStats };
   }, [user]);
 
-  
-    // letzer Spielestart
+  // letzer Spielestart
   const lastPlayedGame = statsBackend.generalStats.lastPlayedAllGameTypes[0];
   const lastPlayedDate = statsBackend.generalStats.lastPlayedAllGameTypes[1];
 
-  const totalUnits = async (type:string) => {
+  const totalUnits = async (type: string) => {
     let res: any[] = [];
-    if (type === "quiz") { res = await generalAPICallsService.fetchQuestionsWithQueryParams("?type=quiz");};
-    if (type === "memory") { res = await generalAPICallsService.fetchQuestionsWithQueryParams("?type=memory");};
-    if (type === "gapfill") { res = await generalAPICallsService.fetchQuestionsWithQueryParams("?type=gapfill");};
+    if (type === "quiz") {
+      res = await generalAPICallsService.fetchQuestionsWithQueryParams(
+        "?type=quiz"
+      );
+    }
+    if (type === "memory") {
+      res = await generalAPICallsService.fetchQuestionsWithQueryParams(
+        "?type=memory"
+      );
+    }
+    if (type === "gapfill") {
+      res = await generalAPICallsService.fetchQuestionsWithQueryParams(
+        "?type=gapfill"
+      );
+    }
 
     return res.length;
-  }
+  };
 
   // Daten fürs Chart
-  const chartData = (["quiz", "memory", "gapfill"] as GameKey[]).map(game => ({
-    name: t(`stats.${game}`),
-    Punkte: statsBackend.gameStats[game].totalPoints,
-  }));
-
-
+  const chartData = (["quiz", "memory", "gapfill"] as GameKey[]).map(
+    (game) => ({
+      name: t(`stats.${game}`),
+      Punkte: statsBackend.gameStats[game].totalPoints,
+    })
+  );
 
   const renderProgressBar = (percent: string) => (
     <div className="progress">
@@ -171,9 +171,6 @@ const Stats = () => {
           {t("stats.progress")}: <strong>{progress}%</strong>
         </p>
         {renderProgressBar(progress)}
-        <p className="mt-2">
-          {t("stats.coverage")}: <strong>{questionCoverage}%</strong>
-        </p>
       </div>
     );
   };
@@ -194,7 +191,10 @@ const Stats = () => {
         )}
 
         {["quiz", "memory", "gapfill"].map((game) =>
-          renderGameStats(game as GameKey, statsBackend.gameStats[game as GameKey])
+          renderGameStats(
+            game as GameKey,
+            statsBackend.gameStats[game as GameKey]
+          )
         )}
 
         <div className="stats-card">

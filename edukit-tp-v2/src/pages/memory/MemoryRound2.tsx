@@ -147,6 +147,7 @@ const MemoryRound2 = () => {
     try {
       if (user) {
         const current = user.user_game_information.memory;
+
         const updatedUser = {
           ...user,
           user_game_information: {
@@ -162,12 +163,16 @@ const MemoryRound2 = () => {
                 (current.max_points + maxPoints),
               last_played: new Date().toISOString(),
             },
+            total_points:
+              (user.user_game_information.quiz?.total_points || 0) +
+              (user.user_game_information.gapfill?.total_points || 0) +
+              (current.total_points + score), // wichtig: aktueller Memory-Wert nach Hinzufügen von score
           },
         };
 
         setUser(updatedUser);
         untrackedChanges();
-        await flushUser();
+        await flushUser(updatedUser);
         console.log("📊 Memory flushUser erfolgreich");
       }
     } catch (err) {
