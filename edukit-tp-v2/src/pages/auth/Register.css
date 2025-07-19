@@ -1,0 +1,180 @@
+/* Wrapper Standard */
+.register-wrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+/* Content */
+.register-content {
+  width: 100%;
+ /* max-width: 600px;*/
+  margin: auto;
+}
+
+.registerback-button {
+  border-radius: 0.5rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+body.bg-dark .registerback-button, body.bg-dark .register-button {
+  background-color: #2c2c2c; 
+  color: #ffffff; 
+   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.6);
+}
+
+.register-info {
+  background-color: #e9f7ef; /* sanft grünlich */
+  border: 1px solid #c1e2d0;
+  border-radius: 0.75rem;
+  padding: 1.5rem;
+  margin-top: 2rem;
+  font-size: 1rem;
+  color: #1a3d2f;
+}
+
+.register-info h5 {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.register-info p {
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
+}
+.next-mail{
+  color: #6c757d;
+}
+body.bg-dark .next-mail{
+  color: #ffffff;
+}
+
+/* Mobile (≤576px) */
+@media (max-width: 576px) {
+.register-wrapper{
+  margin-top: -4rem;
+}
+
+  .register-content h2 {
+    font-size: 1.8rem;
+  }
+
+  .register-content p {
+    font-size: 1rem;
+  }
+  
+   .registerback-button {
+   
+    font-size: 1rem;
+    padding: 0.4rem 0.6rem;
+  }
+
+  .register-content input,
+  .register-content button {
+    font-size: 1rem;
+    padding: 0.4rem 1rem;
+  }
+}
+
+/* Tablet (577–991px) */
+@media (min-width: 577px) and (max-width: 991px) {
+
+    .register-content {
+    max-width: 400px;
+    }
+  .register-content h2 {
+    font-size: 2rem;
+  }
+  .registerback-button {
+    font-size: 1.1rem;
+    padding: 0.3rem 0.7rem;
+  }
+
+  .register-content p {
+    font-size: 1.1rem;
+  }
+
+  .register-content input,
+  .register-content button {
+    font-size: 1.1rem;
+    padding: 0.5rem 1.3rem;
+  }
+  .register-info {
+    font-size: 1rem;
+    padding: 1.2rem;
+  }
+
+  .register-info h5 {
+    font-size: 1.1rem;
+  }
+}
+
+/* Desktop (992–1399px) */
+@media (min-width: 992px) and (max-width: 1399px) {
+
+    .register-content {
+    max-width: 600px;
+    }
+
+  .register-content h2 {
+    font-size: 2.2rem;
+  }
+
+  .registerback-button {
+    font-size: 1.2rem;
+    padding: 0.5rem 0.9rem;
+  }
+
+  .register-content p {
+    font-size: 1.2rem;
+  }
+
+  .register-content input,
+  .register-content button {
+    font-size: 1.2rem;
+    padding: 0.5rem 1.5rem;
+  }
+    .register-info {
+    font-size: 1.15rem;
+    padding: 2rem;
+  }
+
+  .register-info h5 {
+    font-size: 1.3rem;
+  }
+}
+
+/* Große Desktops (≥1400px) */
+@media (min-width: 1400px) {
+
+    .register-content {
+    max-width: 800px;
+    }
+
+  .register-content h2 {
+    font-size: 2.4rem;
+  }
+  .registerback-button {
+    font-size: 1.3rem;
+    padding: 0.5rem 1rem;
+  }
+
+  .register-content p {
+    font-size: 1.3rem;
+  }
+
+  .register-content input,
+  .register-content button {
+    font-size: 1.3rem;
+    padding: 0.8rem 1.8rem;
+  }
+    .register-info {
+    font-size: 1.3rem;
+    padding: 2rem;
+  }
+
+  .register-info h5 {
+    font-size: 1.5rem;
+  }
+}

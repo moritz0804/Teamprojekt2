@@ -1,0 +1,150 @@
+.home-wrapper {
+  position: relative;
+  min-height: 90vh;
+  overflow: hidden;
+ 
+}
+
+/* Animierte Banderole (Wellen-Streifen) */
+.animated-banner {
+  position: absolute;
+  top: 32%; 
+  left: -50%;
+  width: 200%;
+  height: 300px;
+  background: linear-gradient(90deg, #00b4db, #00c9a7, #3bb78f, #00b4db);
+  background-size: 300% 300%;
+  animation: waveFlow 12s linear infinite;
+  opacity: 0.25;
+  border-radius: 50% 50% 0 0;
+  transform: rotate(-2deg);
+  z-index: 0;
+  box-shadow: 0 0 40px rgba(0, 174, 239, 0.1);
+}
+
+/* Animation für die Wellenbewegung */
+@keyframes waveFlow {
+  0% {
+    background-position: 0% 50%;
+    transform: translateX(0) rotate(-2deg);
+  }
+  50% {
+    background-position: 100% 50%;
+    transform: translateX(-25%) rotate(-2deg);
+  }
+  100% {
+    background-position: 0% 50%;
+    transform: translateX(0) rotate(-2deg);
+  }
+}
+
+/* Inhalt über der Animation */
+.content-layer {
+  position: relative;
+  z-index: 1;
+}
+
+/* Weichzeichner bei Disclaimer */
+.blur-sm {
+  filter: blur(3px);
+}
+
+.home-title {
+  font-size: 1.85rem;
+  margin-bottom: 1.2rem;
+}
+
+.home-subtitle {
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+  color: #6c757d;
+}
+
+/* Dark Mode */
+body.bg-dark .home-subtitle {
+  color: white;
+}
+
+.home-button {
+  font-size: 1.1rem;
+  padding: 0.75rem 1.4rem;
+}
+
+.home-image {
+ max-height: 340px;
+  margin-top: 1rem;
+}
+
+/* Tablet (≥ 768px) */
+@media (min-width: 768px) and (max-width: 991px) {
+  .home-title {
+    font-size: 2.5rem;
+  }
+
+  .home-subtitle {
+    font-size: 1.15rem;
+  }
+.animated-banner{
+  top:15%;
+}
+  .home-button {
+    font-size: 1.15rem;
+  }
+
+  .home-image {
+    max-height: 450px;
+  }
+}
+
+/* Desktop (≥ 992px) */
+@media (min-width: 992px) and (max-width: 1399px) {
+.animated-banner{
+  top: 20%;
+}
+
+  .home-title {
+    font-size: 3rem;
+  }
+
+  .home-subtitle {
+    font-size: 1.3rem;
+  }
+
+  .home-button {
+    font-size: 1.3rem;
+    padding: 0.9rem 2rem;
+  }
+
+  .home-image {
+    max-height: 510px;
+  }
+}
+
+/* Große Desktops (≥ 1400px) */
+@media (min-width: 1400px) {
+  .home-wrapper {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+.animated-banner{
+  top: 19%;
+  height: 350px;
+}
+  .home-title {
+    font-size: 3.4rem;
+  }
+
+  .home-subtitle {
+    font-size: 1.6rem;
+  }
+
+  .home-button {
+    font-size: 1.6rem;
+    padding: 1.1rem 2.2rem;
+  }
+
+  .home-image {
+    max-height: 620px;
+  }
+}

@@ -1,0 +1,247 @@
+.memorystart-wrapper {
+  min-height: 100vh;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.cancel-button {
+  position: static;
+  align-self: flex-start;
+  margin-top: -2.2rem;
+  top: 0;
+  left: 0;
+  z-index: 1050;
+}
+
+.cancel-button .btn {
+  font-size: 1rem;
+  padding: 0.4rem 0.8rem;
+   margin-top: -0.5rem;
+}
+
+.cancel-confirm-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: -0.5rem;
+  max-width: max-content;
+    
+}
+
+.cancel-confirm-text {
+  white-space: nowrap;
+  color: white;
+  background-color: #1e1e1e;
+  padding: 0.4rem 0.8rem;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+body.bg-dark .cancel-confirm-text {
+  background-color: inherit;
+}
+
+.cancel-confirm-buttons {
+  display: flex;
+  gap: 0.5rem;
+  width: 100%;
+}
+
+.cancel-confirm-buttons .btn {
+  flex: 1;
+  font-size: inherit;
+  padding: 0.4rem 0.8rem;
+}
+
+
+/* Titelbereich mit Icon */
+.memory-title-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: -0.7rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  max-width: 600px;
+}
+
+.memory-title {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0;
+  text-align: center;
+}
+
+.memorytutorial-icon {
+  height: 50px;
+  width: 50px;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+  margin-left: -0.8rem; ;
+}
+
+/* memorytutorial-box { */
+.memorytutorial-box {
+  width: 100%;
+  max-width: 800px;
+  background-color: #d3bfff;
+  border-radius: 999px;
+  padding: 0.75rem 1.6rem;
+  text-align: center;
+  margin-top: -0.5rem;
+  margin-bottom: 1rem;
+}
+
+.memorytutorial-text {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #000;
+}
+
+/* Video */
+.memorytutorial-video {
+  width: 100%;
+  max-width: 600px;
+  height: 280px;
+  background-color: #ddd;
+  margin-bottom: 1rem;
+}
+
+.memorytutorial-video iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Startbutton */
+.memorystart-button-wrapper {
+  width: 100%;
+  max-width: 600px;
+}
+
+.memorystart-button {
+  display: block;
+  width: 100%;
+  background-color: #9a7fc6;
+  color: white;
+  text-align: center;
+  padding: 0.75rem;
+  border-radius: 12px;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+/* Nur für Mobilgeräte */
+@media (max-width: 576px) {
+  .cancel-button {
+    position: static;
+    align-self: flex-start;
+    margin-top: -2.2rem;
+    margin-bottom: 0.5rem;
+  }
+}
+
+/* Tablet */
+@media (min-width: 577px) and (max-width: 991px) {
+  .cancel-button .btn, .cancel-confirm-text {
+    font-size: 1rem;
+    padding: 0.4rem 0.9rem;
+  }
+
+  .memory-title {
+    font-size: 2.5rem;
+  }
+  .memorytutorial-box {
+    max-width: 600px;
+    padding: 0.75rem 1.6rem;;
+  }
+  .memorytutorial-icon {
+    height: 60px;
+    width: 60px;
+  }
+  .memorytutorial-text {
+    font-size: 1.25rem;
+  }
+  .memorytutorial-video {
+    max-width: 600px;
+    height: 320px;
+  }
+  .memorystart-button-wrapper {
+    max-width: 600px;
+  }
+  .memorystart-button {
+    font-size: 1.25rem;
+    padding: 0.75rem 1.6rem;
+  }
+}
+
+/* Desktop */
+@media (min-width: 992px) and (max-width: 1399px) {
+   .cancel-button .btn, .cancel-confirm-text {
+    font-size: 1.1rem;
+    padding: 0.45rem 1rem;
+  }
+  .memory-title {
+    font-size: 3rem;
+  }
+  .memorytutorial-icon {
+    height: 70px;
+    width: 70px;
+  }
+  .memorymemorytutorial-box {
+    max-width: 800px;
+    padding: 0.9rem 2rem;
+  }
+  .memorytutorial-text {
+    font-size: 1.4rem;
+  }
+  .memorytutorial-video {
+    max-width: 800px;
+    height: 360px;
+  }
+  .memorystart-button-wrapper {
+    max-width: 800px;
+  }
+  .memorystart-button {
+    font-size: 1.4rem;
+    padding: 0.9rem 2rem;
+  }
+}
+
+/* Großer Desktop */
+@media (min-width: 1400px) {
+   .cancel-button .btn, .cancel-confirm-text {
+    font-size: 1.2rem;
+    padding: 0.5rem 1.1rem;
+  }
+  .memory-title {
+    font-size: 3.4rem;
+  }
+  .memorytutorial-icon {
+    height: 80px;
+    width: 80px;
+  }
+  .memorytutorial-box {
+    max-width: 1000px;
+     padding: 1.1rem 2.2rem;
+  }
+  .memorytutorial-text {
+    font-size: 1.5rem;
+  }
+  .memorytutorial-video {
+    max-width: 1000px;
+    height: 400px;
+  }
+  .memorystart-button-wrapper {
+    max-width: 1000px;
+  }
+  .memorystart-button {
+    font-size: 1.5rem;
+    padding: 1.1rem 2.2rem;
+  }
+}
