@@ -7,31 +7,31 @@ on:
 
 jobs:
   build_and_deploy:
-    name: Build and Deploy
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout source
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
+      - name: Install & Build
+
+        run: |
+
+
+          cd edukit-tp-v2
+
+
+          npm ci
+
+
+          npm run build
+
+      - uses: FirebaseExtended/action-hosting-deploy@v0
+
         with:
-          node-version: 20
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Install dependencies
-        run: npm ci
-        working-directory: ./edukit-tp-v2
+          firebaseServiceAccount: ${{ secrets.FIREBASE_TOKEN }}
 
-      - name: Build project
-        run: npm run build
-        working-directory: ./edukit-tp-v2
-
-      - name: Deploy to Firebase Hosting
-        uses: FirebaseExtended/action-hosting-deploy@v0
-        with:
-          repoToken: "${{ secrets.GITHUB_TOKEN }}"
-          firebaseServiceAccount: "${{ secrets.FIREBASE_TOKEN }}"
           channelId: live
-        env:
-          FIREBASE_CLI_EXPERIMENTS: webframeworks
+
+          projectId: edukit-tp
