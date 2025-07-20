@@ -34,7 +34,7 @@ exports.updateLeaderboard = functions.region("europe-west1").pubsub.schedule('ev
   const db = admin.firestore();
 
   const usersRef = db.collection("users");
-  const snapshot = await usersRef.orderBy("user_game_information.highscore", "desc").get();
+  const snapshot = await usersRef.orderBy("user_game_information.total_points", "desc").get();
 
   const leaderboard = [];
   let rank = 1;
@@ -43,7 +43,7 @@ exports.updateLeaderboard = functions.region("europe-west1").pubsub.schedule('ev
     leaderboard.push({
       user_rank: rank++,
       user_name: data.user_name || "unknown",
-      user_highscore: data.user_game_information?.highscore || 0,
+      user_total_points: data.user_game_information?.total_points || 0,
       user_profile_picture: data.user_profile_picture
     });
   });

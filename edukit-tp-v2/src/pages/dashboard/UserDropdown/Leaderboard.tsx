@@ -8,7 +8,7 @@ import { GeneralAPICallsService } from "../../../firebaseData/generalAPICallsSer
 export type PlayerInLeaderboard = {
   user_rank: number
   user_name: string;
-  user_highscore: number;
+  user_total_points: number;
   user_profile_picture: string;
 };
 
@@ -85,7 +85,7 @@ export default function Leaderboard() {
             </strong>
             <div className="player-name">{player.user_name}</div>
             <div className="player-score">
-              {player.user_highscore} {t("leaderboard.points")}
+              {player.user_total_points} {t("leaderboard.points")}
             </div>
           </div>
         ))}
@@ -105,7 +105,7 @@ export default function Leaderboard() {
               <span>{p.user_name}</span>
             </div>
             <span className="entry-score fw-semibold">
-              {p.user_highscore} {t("leaderboard.points")}
+              {p.user_total_points} {t("leaderboard.points")}
             </span>
           </div>
         ))}

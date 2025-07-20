@@ -27,15 +27,7 @@ async def get_current_leaderboard():
         else: 
             leaderboard_dict = latest_doc[0].to_dict()
             leaderboard_list = leaderboard_dict["leaderboard"]
-            print("TestPRINT")
-            print("DICT-------")
-            print(leaderboard_dict)
-            print("LIST-----")
-            print(leaderboard_list)
-            logger.info("TestLOGGER")
-            logger.info(leaderboard_list)
-            #print(latest_doc[0].to_dict())
-            return leaderboard_list#latest_doc[0].to_dict()
+            return leaderboard_list
             
     except Exception as e:
         print("🔥 Fehler beim Laden des Leaderboards:", e)
