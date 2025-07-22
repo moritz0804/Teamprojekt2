@@ -151,7 +151,7 @@ const QuizGame = () => {
         : sampleQuestions;
     }
 
-    const match = chapter?.match(/Kapitel (\d+)/i);
+    const match = chapter?.match(/(?:Kapitel|Chapter) (\d+)/i);
     const chapterKey = match ? `k${match[1]}` : null;
     if (!chapterKey) return sampleQuestions;
 

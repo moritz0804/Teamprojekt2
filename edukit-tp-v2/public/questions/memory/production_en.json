@@ -1,0 +1,102 @@
+[
+  {
+    "id": "production-k2-en-m1",
+    "term": "Production program planning",
+    "definition": "Definition of type, quantity, and timing of the products to be manufactured"
+  },
+  {
+    "id": "production-k2-en-m2",
+    "term": "Operational production program",
+    "definition": "Here, the production quantities of the products are variable"
+  },
+  {
+    "id": "production-k2-en-m3",
+    "term": "Contribution margin",
+    "definition": "Difference between selling price and variable costs"
+  },
+  {
+    "id": "production-k2-en-m4",
+    "term": "Break-even point",
+    "definition": "Is reached when the contribution margins cover the fixed costs"
+  },
+  {
+    "id": "production-k2-en-m5",
+    "term": "Production proposal evaluation",
+    "definition": "Utilization of all capacities must be considered"
+  },
+  {
+    "id": "production-k2-en-m6",
+    "term": "Linear programming",
+    "definition": "Optimization of the production program under multiple constraints"
+  },
+  {
+    "id": "production-k2-en-m7",
+    "term": "Goal of LP in production planning",
+    "definition": "Maximization of the total contribution margin"
+  },
+  {
+    "id": "production-k2-en-m8",
+    "term": "Non-negativity condition",
+    "definition": "Values in LP must not be negative"
+  },
+  {
+    "id": "production-k2-en-m9",
+    "term": "Graphical solution",
+    "definition": "Suitable for two products to visualize LP"
+  },
+  {
+    "id": "production-k2-en-m10",
+    "term": "Simplex method",
+    "definition": "Starts at the origin and iteratively improves to neighboring corners"
+  },
+  {
+    "id": "production-k2-en-m11",
+    "term": "Goal of requirements planning",
+    "definition": "Timely and accurate determination of required goods"
+  },
+  {
+    "id": "production-k2-en-m12",
+    "term": "Types of requirements planning",
+    "definition": "Program-based and consumption-based"
+  },
+  {
+    "id": "production-k2-en-m13",
+    "term": "Program-based requirements planning",
+    "definition": "Deterministic and program-bound"
+  },
+  {
+    "id": "production-k2-en-m14",
+    "term": "Consumption-based requirements planning",
+    "definition": "Based on historical values or forecasts"
+  },
+  {
+    "id": "production-k2-en-m15",
+    "term": "Capacity utilization",
+    "definition": "Important factor for evaluating production proposals"
+  },
+  {
+    "id": "production-k2-en-m16",
+    "term": "Optimization methods",
+    "definition": "Linear programming as a mathematical approach"
+  },
+  {
+    "id": "production-k2-en-m17",
+    "term": "Production quantity",
+    "definition": "Central decision variable in the operational program"
+  },
+  {
+    "id": "production-k2-en-m18",
+    "term": "Fixed costs",
+    "definition": "Are covered by contribution margins to generate profit"
+  },
+  {
+    "id": "production-k2-en-m19",
+    "term": "Production structure",
+    "definition": "Basis for program-based requirements planning"
+  },
+  {
+    "id": "production-k2-en-m20",
+    "term": "Deterministic method",
+    "definition": "Assumes fixed, known values"
+  }
+]
