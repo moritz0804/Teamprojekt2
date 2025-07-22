@@ -1,0 +1,422 @@
+[
+  {
+    "id": "brand-k5-en-q1",
+    "content": "1. What does the price premium approach to measuring brand equity describe?",
+    "answers": [
+      {
+        "text": "a) The frequency of discount campaigns",
+        "is_correct": false
+      },
+      {
+        "text": "b) The price consumers are willing to pay extra for a brand",
+        "is_correct": true
+      },
+      {
+        "text": "c) The comparison of stock levels",
+        "is_correct": false
+      },
+      {
+        "text": "d) The market share of competitors",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q2",
+    "content": "2. Which advantage is attributed to brands in the context of risk reduction?",
+    "answers": [
+      {
+        "text": "a) They increase price sensitivity",
+        "is_correct": false
+      },
+      {
+        "text": "b) They foster irregular revenues",
+        "is_correct": false
+      },
+      {
+        "text": "c) They stabilize cash flows through brand loyalty",
+        "is_correct": true
+      },
+      {
+        "text": "d) They make investors more cautious",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q3",
+    "content": "3. What does the sales premium approach measure?",
+    "answers": [
+      {
+        "text": "a) The price elasticity of demand",
+        "is_correct": false
+      },
+      {
+        "text": "b) The sales volume compared to unbranded products",
+        "is_correct": true
+      },
+      {
+        "text": "c) The production effort",
+        "is_correct": false
+      },
+      {
+        "text": "d) The number of brand licenses",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q4",
+    "content": "4. What does the sales premium approach to brand valuation refer to?",
+    "answers": [
+      {
+        "text": "a) Comparison of production costs between branded and no-name products",
+        "is_correct": false
+      },
+      {
+        "text": "b) Measurement of higher sales of a brand compared to an unbranded product",
+        "is_correct": true
+      },
+      {
+        "text": "c) Analysis of discount promotions in retail",
+        "is_correct": false
+      },
+      {
+        "text": "d) Observation of competitors' market share",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q5",
+    "content": "5. Which brand strategy is particularly suitable for premium or luxury brands?",
+    "answers": [
+      {
+        "text": "a) Sales premium strategy",
+        "is_correct": false
+      },
+      {
+        "text": "b) Price premium strategy",
+        "is_correct": true
+      },
+      {
+        "text": "c) Discount strategy",
+        "is_correct": false
+      },
+      {
+        "text": "d) Mass market strategy",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q6",
+    "content": "6. What is an advantage of a strong brand regarding business risk?",
+    "answers": [
+      {
+        "text": "a) Higher price sensitivity of consumers",
+        "is_correct": false
+      },
+      {
+        "text": "b) Reduction of cash flow volatility",
+        "is_correct": true
+      },
+      {
+        "text": "c) Less brand loyalty",
+        "is_correct": false
+      },
+      {
+        "text": "d) Increased dependency on competition",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q7",
+    "content": "7. What is the Price Sensitivity Meter by Van Westendorp used for?",
+    "answers": [
+      {
+        "text": "a) To analyze retail price promotions",
+        "is_correct": false
+      },
+      {
+        "text": "b) To determine the acceptable price range of a product",
+        "is_correct": true
+      },
+      {
+        "text": "c) To calculate production costs of a product",
+        "is_correct": false
+      },
+      {
+        "text": "d) To measure brand loyalty",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q8",
+    "content": "8. What are the two components of the Interbrand brand valuation model?",
+    "answers": [
+      {
+        "text": "a) Pricing strategy and revenue",
+        "is_correct": false
+      },
+      {
+        "text": "b) Brand image and advertising budget",
+        "is_correct": false
+      },
+      {
+        "text": "c) Brand performance and brand strength",
+        "is_correct": true
+      },
+      {
+        "text": "d) Market share and awareness",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q9",
+    "content": "9. What is a key challenge in measuring brand value?",
+    "answers": [
+      {
+        "text": "a) Choosing the right brand name",
+        "is_correct": false
+      },
+      {
+        "text": "b) Uncertainty regarding future developments",
+        "is_correct": true
+      },
+      {
+        "text": "c) The number of available brands",
+        "is_correct": false
+      },
+      {
+        "text": "d) The impossibility of evaluating brands internationally",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q10",
+    "content": "10. Which aspect is NOT a criterion in the Interbrand scoring model?",
+    "answers": [
+      {
+        "text": "a) Market leadership",
+        "is_correct": false
+      },
+      {
+        "text": "b) International presence",
+        "is_correct": false
+      },
+      {
+        "text": "c) Stability",
+        "is_correct": false
+      },
+      {
+        "text": "d) Price elasticity",
+        "is_correct": true
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q11",
+    "content": "11. Why do brand value estimates differ significantly between institutions?",
+    "answers": [
+      {
+        "text": "a) Because brands lack legal protection",
+        "is_correct": false
+      },
+      {
+        "text": "b) Because different models use different valuation approaches",
+        "is_correct": true
+      },
+      {
+        "text": "c) Because companies keep data confidential",
+        "is_correct": false
+      },
+      {
+        "text": "d) Because brand values are purely speculative",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q12",
+    "content": "12. What does the combined price and sales premium approach measure?",
+    "answers": [
+      {
+        "text": "a) The profitability of individual sales channels",
+        "is_correct": false
+      },
+      {
+        "text": "b) The total brand value through price and sales advantages",
+        "is_correct": true
+      },
+      {
+        "text": "c) The number of discounted products sold",
+        "is_correct": false
+      },
+      {
+        "text": "d) Brand awareness among children",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q13",
+    "content": "13. Why are brands considered key intangible assets of companies?",
+    "answers": [
+      {
+        "text": "a) They have a clear legal valuation",
+        "is_correct": false
+      },
+      {
+        "text": "b) They can be valued independently of physical capital",
+        "is_correct": true
+      },
+      {
+        "text": "c) They mainly affect production costs",
+        "is_correct": false
+      },
+      {
+        "text": "d) Their value automatically decreases over time",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q14",
+    "content": "14. What does the 'Role of Brand Index' mean in the Interbrand model?",
+    "answers": [
+      {
+        "text": "a) The legal protectability of a brand",
+        "is_correct": false
+      },
+      {
+        "text": "b) The share of brand value in total revenues",
+        "is_correct": true
+      },
+      {
+        "text": "c) The advertising intensity for a product",
+        "is_correct": false
+      },
+      {
+        "text": "d) The number of registered trademark rights",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k5-en-q15",
+    "content": "15. Which statement applies to indicator-based brand valuation approaches?",
+    "answers": [
+      {
+        "text": "a) They ignore long-term brand effects",
+        "is_correct": false
+      },
+      {
+        "text": "b) They are based on internal employee surveys",
+        "is_correct": false
+      },
+      {
+        "text": "c) They use criteria such as market leadership and stability",
+        "is_correct": true
+      },
+      {
+        "text": "d) They fully replace financial brand valuation",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  }
+]

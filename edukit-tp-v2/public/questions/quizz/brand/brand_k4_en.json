@@ -1,0 +1,278 @@
+[
+  {
+    "id": "brand-k4-en-q1",
+    "content": "1. What does product-feature similarity refer to in brand extensions?",
+    "answers": [
+      {
+        "text": "a) Using the same advertising slogan",
+        "is_correct": false
+      },
+      {
+        "text": "b) Shared product features and functions",
+        "is_correct": true
+      },
+      {
+        "text": "c) Geographic proximity of production sites",
+        "is_correct": false
+      },
+      {
+        "text": "d) Same pricing structure",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-en-q2",
+    "content": "2. Which effect describes the influence of a brand extension on the parent brand?",
+    "answers": [
+      {
+        "text": "a) Fit effect",
+        "is_correct": false
+      },
+      {
+        "text": "b) Reciprocal spillover effect",
+        "is_correct": true
+      },
+      {
+        "text": "c) Licensing effect",
+        "is_correct": false
+      },
+      {
+        "text": "d) Image distortion",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-en-q3",
+    "content": "3. What is an advantage of ingredient branding?",
+    "answers": [
+      {
+        "text": "a) Low brand awareness",
+        "is_correct": false
+      },
+      {
+        "text": "b) Quality signaling",
+        "is_correct": true
+      },
+      {
+        "text": "c) No control over the product",
+        "is_correct": false
+      },
+      {
+        "text": "d) Increased cannibalization risk",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-de-q4",
+    "content": "4. What is a typical feature of horizontal brand extensions?",
+    "answers": [
+      { "text": "a) Higher quality level than the original product", "is_correct": false },
+      { "text": "b) Same quality level as the main brand", "is_correct": true },
+      { "text": "c) Focus on functional benefits", "is_correct": false },
+      { "text": "d) Expansion into new countries", "is_correct": false }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-de-q5",
+    "content": "5. What does the ownership effect in vertical extensions describe according to Kirmani et al. (1999)?",
+    "answers": [
+      { "text": "a) Brand owners generally reject extensions", "is_correct": false },
+      { "text": "b) Owners react more positively to extensions than non-owners", "is_correct": true },
+      { "text": "c) The effect only occurs for price brands", "is_correct": false },
+      { "text": "d) The effect only applies to horizontal extensions", "is_correct": false }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-de-q6",
+    "content": "6. What is a risk of brand alliances according to Keller & Swaminathan (2020)?",
+    "answers": [
+      { "text": "a) Decreased brand awareness", "is_correct": false },
+      { "text": "b) Negative spillover effects", "is_correct": true },
+      { "text": "c) Higher production costs", "is_correct": false },
+      { "text": "d) Slower market entry", "is_correct": false }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-de-q7",
+    "content": "7. What does ingredient branding describe?",
+    "answers": [
+      { "text": "a) Two brands at the same value chain level", "is_correct": false },
+      { "text": "b) Combination of brands at different value chain levels", "is_correct": true },
+      { "text": "c) Brand merger with a shared name", "is_correct": false },
+      { "text": "d) Exchange of logos in product packaging", "is_correct": false }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-de-q8",
+    "content": "8. When is a family branding strategy typically used?",
+    "answers": [
+      { "text": "a) For products with highly differentiated target groups", "is_correct": false },
+      { "text": "b) For a product group with a consistent brand identity", "is_correct": true },
+      { "text": "c) Only for B2B brands", "is_correct": false },
+      { "text": "d) When the company does not want to disclose its name", "is_correct": false }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-de-q9",
+    "content": "9. What is an advantage of the single branding strategy?",
+    "answers": [
+      { "text": "a) Low cost of brand development", "is_correct": false },
+      { "text": "b) Ability to address target groups precisely", "is_correct": true },
+      { "text": "c) Maximum visibility of the company", "is_correct": false },
+      { "text": "d) Synergies through joint advertising campaigns", "is_correct": false }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-de-q10",
+    "content": "10. Which strategy uses the same brand name for all products?",
+    "answers": [
+      { "text": "a) Single branding", "is_correct": false },
+      { "text": "b) Corporate branding", "is_correct": true },
+      { "text": "c) Family branding", "is_correct": false },
+      { "text": "d) Ingredient branding", "is_correct": false }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-de-q11",
+    "content": "11. Which statement about co-branding is correct?",
+    "answers": [
+      { "text": "a) The brands operate at different value chain levels", "is_correct": false },
+      { "text": "b) It is a horizontal brand alliance", "is_correct": true },
+      { "text": "c) One brand is absorbed", "is_correct": false },
+      { "text": "d) Only suitable for new products", "is_correct": false }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-de-q12",
+    "content": "12. According to Park et al. (1996), what most strongly influences the perception of an alliance product?",
+    "answers": [
+      { "text": "a) Alphabetical order of brand names", "is_correct": false },
+      { "text": "b) The brand mentioned first", "is_correct": true },
+      { "text": "c) Market shares of the brands", "is_correct": false },
+      { "text": "d) Color of the packaging", "is_correct": false }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-de-q13",
+    "content": "13. What does the term brand architecture describe?",
+    "answers": [
+      { "text": "a) The graphic design of a logo", "is_correct": false },
+      { "text": "b) The structure and roles of all brands in a company", "is_correct": true },
+      { "text": "c) The architecture of a flagship store", "is_correct": false },
+      { "text": "d) The relationship with influencers", "is_correct": false }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-de-q14",
+    "content": "14. What is a typical trigger for brand repositioning?",
+    "answers": [
+      { "text": "a) An internal CEO change", "is_correct": false },
+      { "text": "b) Technological or societal changes", "is_correct": true },
+      { "text": "c) Product shortages", "is_correct": false },
+      { "text": "d) Discontinuation of advertising", "is_correct": false }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k4-de-q15",
+    "content": "15. What are the two main goals of long-term brand management?",
+    "answers": [
+      { "text": "a) Building new brands and focusing on pricing policy", "is_correct": false },
+      { "text": "b) Stabilizing knowledge structures and adapting to environmental changes", "is_correct": true },
+      { "text": "c) Optimizing logistics and price analysis", "is_correct": false },
+      { "text": "d) Personalization and discount management", "is_correct": false }
+    ],
+    "chapter": "k4",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  }
+]

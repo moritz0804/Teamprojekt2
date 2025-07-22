@@ -1,0 +1,304 @@
+[
+  {
+    "id": "brand-k1-de-q1",
+    "content": "1. Welche Funktion haben Marken laut der Vorlesung für Konsument:innen?",
+    "answers": [
+      {
+        "text": "a) Sie erhöhen ausschließlich den Preis.",
+        "is_correct": false
+      },
+      {
+        "text": "b) Sie dienen der Markenpflege.",
+        "is_correct": false
+      },
+      {
+        "text": "c) Sie reduzieren Suchkosten und Konsumrisiken.",
+        "is_correct": true
+      },
+      {
+        "text": "d) Sie verlängern die Produktlebensdauer.",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q2",
+    "content": "2. Was bedeutet 'Brand Love'?",
+    "answers": [
+      {
+        "text": "a) Eine rationale Entscheidung für den günstigsten Preis.",
+        "is_correct": false
+      },
+      {
+        "text": "b) Eine emotionale Bindung und leidenschaftliches Verhalten gegenüber einer Marke.",
+        "is_correct": true
+      },
+      {
+        "text": "c) Eine kurzfristige Werbekampagne.",
+        "is_correct": false
+      },
+      {
+        "text": "d) Eine Strategie zur Preisoptimierung.",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q3",
+    "content": "3. Was beschreibt 'Self-Congruence' im Kontext von Marken?",
+    "answers": [
+      {
+        "text": "a) Übereinstimmung zwischen Markenimage und Selbstbild der Konsument:innen.",
+        "is_correct": true
+      },
+      {
+        "text": "b) Gleichklang von Preisen im Sortiment.",
+        "is_correct": false
+      },
+      {
+        "text": "c) Vergleichbarkeit von Werbekampagnen.",
+        "is_correct": false
+      },
+      {
+        "text": "d) Wiedererkennung der Markenverpackung.",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q4",
+    "content": "4. Welche Dimension gehört NICHT zu Aaker’s Brand Personality?",
+    "answers": [
+      {
+        "text": "a) Sincerity",
+        "is_correct": false
+      },
+      {
+        "text": "b) Competence",
+        "is_correct": false
+      },
+      {
+        "text": "c) Sophistication",
+        "is_correct": false
+      },
+      {
+        "text": "d) Simplicity",
+        "is_correct": true
+      }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q5",
+    "content": "5. Was ist ein Risiko von Brand Activism laut Vorlesung?",
+    "answers": [
+      {
+        "text": "a) Geringere Markenbekanntheit",
+        "is_correct": false
+      },
+      {
+        "text": "b) Asymmetrische Reaktionen mit potenziell negativem Nettoeffekt",
+        "is_correct": true
+      },
+      {
+        "text": "c) Geringere Werbewirkung",
+        "is_correct": false
+      },
+      {
+        "text": "d) Schnellere Marktakzeptanz",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q6",
+    "content": "6. Welche Art von Resonanz beschreibt die Passung zwischen einer Marke und den persönlichen Zielen einer Konsumentin?",
+    "answers": [
+      { "text": "a) Soziale Resonanz", "is_correct": false },
+      { "text": "b) Kulturelle Resonanz", "is_correct": false },
+      { "text": "c) Emotionale Resonanz", "is_correct": false },
+      { "text": "d) Persönliche Resonanz", "is_correct": true }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q7",
+    "content": "7. Was versteht man unter 'Woke Washing' im Kontext von Brand Activism?",
+    "answers": [
+      { "text": "a) Authentisches Eintreten für Markenwerte", "is_correct": false },
+      { "text": "b) Unbeabsichtigte negative Wirkung einer Kampagne", "is_correct": false },
+      { "text": "c) Inkonsistentes Aktivismus-Marketing ohne echte Markenverankerung", "is_correct": true },
+      { "text": "d) Verstärkung der Markenbindung durch politische Statements", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q8",
+    "content": "8. Welche dieser Eigenschaften ist KEIN Bestandteil von Aaker’s Brand Personality?",
+    "answers": [
+      { "text": "a) Ruggedness", "is_correct": false },
+      { "text": "b) Reliability", "is_correct": true },
+      { "text": "c) Sophistication", "is_correct": false },
+      { "text": "d) Sincerity", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q9",
+    "content": "9. Welche Aussage beschreibt eine Facette von Brand Love?",
+    "answers": [
+      { "text": "a) Kurzfristige Nutzung von Produkten", "is_correct": false },
+      { "text": "b) Wunsch nach langfristiger Beziehung zur Marke", "is_correct": true },
+      { "text": "c) Fokus auf niedrige Preise", "is_correct": false },
+      { "text": "d) Austauschbare Markenpräferenzen", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q10",
+    "content": "10. Welche Funktion erfüllt eine Marke NICHT laut den Vorlesungsinhalten?",
+    "answers": [
+      { "text": "a) Reduktion von Suchkosten", "is_correct": false },
+      { "text": "b) Orientierung bei Produktauswahl", "is_correct": false },
+      { "text": "c) Erhöhung von Konsumrisiken", "is_correct": true },
+      { "text": "d) Qualitätssignal für Konsument:innen", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q11",
+    "content": "11. Was beschreibt der Begriff 'Self-Brand Integration'?",
+    "answers": [
+      { "text": "a) Anpassung der Marke an kulturelle Normen", "is_correct": false },
+      { "text": "b) Integration der Marke in das Selbstbild einer Person", "is_correct": true },
+      { "text": "c) Verschmelzung von Markenimages in einer Produktlinie", "is_correct": false },
+      { "text": "d) Vergleich zwischen Selbstbild und Markenimage", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q12",
+    "content": "12. Warum kann Brand Activism gefährlich für Marken sein?",
+    "answers": [
+      { "text": "a) Es ist immer mit hohen Produktionskosten verbunden", "is_correct": false },
+      { "text": "b) Konsument:innen achten nicht auf gesellschaftliches Engagement", "is_correct": false },
+      { "text": "c) Die Reaktionen sind asymmetrisch – Gegner reagieren stärker negativ als Unterstützer positiv", "is_correct": true },
+      { "text": "d) Marken verlieren ihre visuelle Identität", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q13",
+    "content": "13. Welche Art von Resonanz zielt auf kulturelle Werte und Identitäten ab?",
+    "answers": [
+      { "text": "a) Soziale Resonanz", "is_correct": false },
+      { "text": "b) Kulturelle Resonanz", "is_correct": true },
+      { "text": "c) Persönliche Resonanz", "is_correct": false },
+      { "text": "d) Funktionale Resonanz", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q14",
+    "content": "14. Welche Theorie erklärt das Bedürfnis von Konsument:innen, sich über Marken sozialen Gruppen zugehörig zu fühlen?",
+    "answers": [
+      { "text": "a) Rational-Choice-Theorie", "is_correct": false },
+      { "text": "b) Belongingness-Theorie", "is_correct": true },
+      { "text": "c) Branding-Integrationstheorie", "is_correct": false },
+      { "text": "d) Symbolische Konsumtheorie", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k1-de-q15",
+    "content": "15. Was beschreibt der Begriff 'Anthropomorphisierung' im Zusammenhang mit Marken?",
+    "answers": [
+      { "text": "a) Die Vermenschlichung von Marken durch Konsument:innen", "is_correct": true },
+      { "text": "b) Die Anpassung des Produkts an tierische Vorbilder", "is_correct": false },
+      { "text": "c) Die Standardisierung von Markenlogos", "is_correct": false },
+      { "text": "d) Die Abgrenzung von Marken im Tiersegment", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  }
+
+
+]

@@ -1,0 +1,278 @@
+[
+    {
+    "id": "brand-k2-en-q1",
+    "content": "1. What does 'Brand Knowledge' describe?",
+    "answers": [
+      {
+        "text": "a) The number of sales of a brand",
+        "is_correct": false
+      },
+      {
+        "text": "b) The legal status of a brand",
+        "is_correct": false
+      },
+      {
+        "text": "c) The brand-related information stored in memory",
+        "is_correct": true
+      },
+      {
+        "text": "d) The global availability of a brand",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q2",
+    "content": "2. What are the two main components of 'Brand Knowledge'?",
+    "answers": [
+      {
+        "text": "a) Price and quality",
+        "is_correct": false
+      },
+      {
+        "text": "b) Market share and advertising",
+        "is_correct": false
+      },
+      {
+        "text": "c) Brand awareness and brand image",
+        "is_correct": true
+      },
+      {
+        "text": "d) Logo and design",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q3",
+    "content": "3. What is meant by 'Brand Recall'?",
+    "answers": [
+      {
+        "text": "a) Recognition of the brand when seeing it",
+        "is_correct": false
+      },
+      {
+        "text": "b) Retrieval of the brand from memory without a cue",
+        "is_correct": true
+      },
+      {
+        "text": "c) Removal of a product from the market",
+        "is_correct": false
+      },
+      {
+        "text": "d) Increase in market share",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q4",
+    "content": "4. What does 'Brand Recognition' describe?",
+    "answers": [
+      { "text": "a) Retrieving a brand from memory without any cue", "is_correct": false },
+      { "text": "b) Recognizing a brand when seeing a brand element", "is_correct": true },
+      { "text": "c) Rejecting a brand from the evoked set", "is_correct": false },
+      { "text": "d) Emotional attachment to a brand", "is_correct": false }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q5",
+    "content": "5. According to the lecture, which of the following is NOT a dimension of strong brand associations?",
+    "answers": [
+      { "text": "a) Strength", "is_correct": false },
+      { "text": "b) Uniqueness", "is_correct": false },
+      { "text": "c) Visibility", "is_correct": true },
+      { "text": "d) Favorability", "is_correct": false }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q6",
+    "content": "6. What does the 'Evoked Set' describe in the purchase decision process?",
+    "answers": [
+      { "text": "a) All brands available in the market", "is_correct": false },
+      { "text": "b) The brands considered by the consumer for purchase", "is_correct": true },
+      { "text": "c) Brands rejected by the consumer", "is_correct": false },
+      { "text": "d) Brands unknown to the consumer", "is_correct": false }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q7",
+    "content": "7. According to the lecture, how can brand associations be built?",
+    "answers": [
+      { "text": "a) Only through TV advertising", "is_correct": false },
+      { "text": "b) Only through product testing", "is_correct": false },
+      { "text": "c) Through every potential brand experience", "is_correct": true },
+      { "text": "d) Only through social media", "is_correct": false }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q8",
+    "content": "8. According to the lecture, what are 'Brand Attributes'?",
+    "answers": [
+      { "text": "a) The emotional benefits of the brand", "is_correct": false },
+      { "text": "b) The descriptive features of a product", "is_correct": true },
+      { "text": "c) Brand recognition", "is_correct": false },
+      { "text": "d) Brand loyalty of the target group", "is_correct": false }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q9",
+    "content": "9. According to the lecture, what is one goal of the brand image?",
+    "answers": [
+      { "text": "a) Maximizing the number of brand elements", "is_correct": false },
+      { "text": "b) Creating associations that are strong, favorable, and unique", "is_correct": true },
+      { "text": "c) Collecting as many associations as possible", "is_correct": false },
+      { "text": "d) Aligning brand personality with competitors", "is_correct": false }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q10",
+    "content": "10. What is a Point of Parity (PoP) according to the lecture?",
+    "answers": [
+      { "text": "a) A unique association that only one brand has", "is_correct": false },
+      { "text": "b) A shared association with competitor brands", "is_correct": true },
+      { "text": "c) A weak association of low importance", "is_correct": false },
+      { "text": "d) An internal brand promise", "is_correct": false }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q11",
+    "content": "11. What is a Point of Difference (PoD) according to the lecture?",
+    "answers": [
+      { "text": "a) A functional feature without relevance", "is_correct": false },
+      { "text": "b) An association shared with competitors", "is_correct": false },
+      { "text": "c) A highly rated, unique brand association", "is_correct": true },
+      { "text": "d) A generic product description", "is_correct": false }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q12",
+    "content": "12. What does 'Brand Identity' mean according to the lecture?",
+    "answers": [
+      { "text": "a) The brand image held by consumers", "is_correct": false },
+      { "text": "b) The functional attributes of a product", "is_correct": false },
+      { "text": "c) The brand associations intended by the company", "is_correct": true },
+      { "text": "d) The brand's market awareness", "is_correct": false }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q13",
+    "content": "13. What characteristics should a good Point of Difference have according to the lecture?",
+    "answers": [
+      { "text": "a) It must be easy to imitate", "is_correct": false },
+      { "text": "b) It must be cheap to implement internally", "is_correct": false },
+      { "text": "c) It should be desirable, deliverable, and differentiating", "is_correct": true },
+      { "text": "d) It should already be used by competitors", "is_correct": false }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q14",
+    "content": "14. What does an 'associative network' describe in the context of brand knowledge?",
+    "answers": [
+      { "text": "a) A network of a brand's partner companies", "is_correct": false },
+      { "text": "b) A set of interconnected information in long-term memory", "is_correct": true },
+      { "text": "c) The supply chain of a brand", "is_correct": false },
+      { "text": "d) Internal knowledge management", "is_correct": false }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k2-en-q15",
+    "content": "15. According to Kotler & Keller, what is the goal of 'Brand Positioning'?",
+    "answers": [
+      { "text": "a) To position the brand as broadly as possible", "is_correct": false },
+      { "text": "b) To achieve a neutral positioning", "is_correct": false },
+      { "text": "c) To anchor the brand distinctively in the minds of the target group", "is_correct": true },
+      { "text": "d) To maximize market share", "is_correct": false }
+    ],
+    "chapter": "k2",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  }
+]

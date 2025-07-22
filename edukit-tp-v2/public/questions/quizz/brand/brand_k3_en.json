@@ -1,0 +1,243 @@
+[
+  {
+    "id": "brand-k3-en-q1",
+    "content": "1. According to the lecture, what does the term 'Brand Prominence' describe?",
+    "answers": [
+      { "text": "a) The financial strength of a brand", "is_correct": false },
+      { "text": "b) The visibility of the logo on the product", "is_correct": true },
+      { "text": "c) The number of brand elements", "is_correct": false },
+      { "text": "d) The volume of commercials", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q2",
+    "content": "2. According to Han et al., which consumer group prefers 'quiet' logos?",
+    "answers": [
+      { "text": "a) Wealthy consumers with a high need for status", "is_correct": false },
+      { "text": "b) Consumers with low income", "is_correct": false },
+      { "text": "c) Wealthy consumers with a low need for status", "is_correct": true },
+      { "text": "d) Consumers with low brand loyalty", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q3",
+    "content": "3. What is the goal of formal integration of brand elements?",
+    "answers": [
+      { "text": "a) Cost reduction in production", "is_correct": false },
+      { "text": "b) Increase in brand recall through consistent designs", "is_correct": true },
+      { "text": "c) Increase in the number of brands", "is_correct": false },
+      { "text": "d) Interchangeability of brand elements", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q4",
+    "content": "4. According to the lecture, what are functions of brand characters?",
+    "answers": [
+      { "text": "a) Reduction of production costs", "is_correct": false },
+      { "text": "b) Strengthening brand loyalty through emotional closeness", "is_correct": true },
+      { "text": "c) Legal protection of the brand", "is_correct": false },
+      { "text": "d) Limiting brand perception", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q5",
+    "content": "5. According to the lecture, what does 'Content Integration' describe?",
+    "answers": [
+      { "text": "a) Uniform coloring of products", "is_correct": false },
+      { "text": "b) Consistent linguistic and visual elements across all channels", "is_correct": true },
+      { "text": "c) Integration of external partners into brand communication", "is_correct": false },
+      { "text": "d) Uniform packaging sizes", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q6",
+    "content": "6. According to the lecture, what is the function of packaging as a brand element?",
+    "answers": [
+      { "text": "a) Brand protection", "is_correct": false },
+      { "text": "b) Support of transport, storage, and consumption", "is_correct": true },
+      { "text": "c) Price determination", "is_correct": false },
+      { "text": "d) Control of production costs", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q7",
+    "content": "7. What does research say about the perception of facial expressions in product designs?",
+    "answers": [
+      { "text": "a) Consumers completely ignore them", "is_correct": false },
+      { "text": "b) They foster human attribution to products", "is_correct": true },
+      { "text": "c) They lead to reduced recognition", "is_correct": false },
+      { "text": "d) They reduce emotional attachment", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q8",
+    "content": "8. According to the lecture, how does packaging influence consumption behavior?",
+    "answers": [
+      { "text": "a) It has no influence", "is_correct": false },
+      { "text": "b) Larger packages lead to higher consumption", "is_correct": true },
+      { "text": "c) Colors are irrelevant", "is_correct": false },
+      { "text": "d) Packaging reduces brand loyalty", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q9",
+    "content": "9. According to Orth & Malkewitz, what design features are typical for competent brands?",
+    "answers": [
+      { "text": "a) Natural packaging", "is_correct": false },
+      { "text": "b) Flashy designs", "is_correct": false },
+      { "text": "c) Subtle, elegant designs", "is_correct": true },
+      { "text": "d) Colorfully chaotic packaging", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q10",
+    "content": "10. What can be a reason for a logo redesign?",
+    "answers": [
+      { "text": "a) Higher production costs", "is_correct": false },
+      { "text": "b) Strategic shift in brand positioning", "is_correct": true },
+      { "text": "c) Reduction in brand awareness", "is_correct": false },
+      { "text": "d) Lower visibility in the market", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q11",
+    "content": "11. What are potential effects of animated brand characters according to the lecture?",
+    "answers": [
+      { "text": "a) Weakening of brand differentiation", "is_correct": false },
+      { "text": "b) Enhancement of brand likability and recall", "is_correct": true },
+      { "text": "c) Increase in production costs", "is_correct": false },
+      { "text": "d) Harder recognizability", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q12",
+    "content": "12. According to the lecture, what is a central goal of integrating brand elements?",
+    "answers": [
+      { "text": "a) Increase in the individual effect of each element", "is_correct": false },
+      { "text": "b) Consistent overall impression to strengthen brand equity", "is_correct": true },
+      { "text": "c) Cost reduction through standardization", "is_correct": false },
+      { "text": "d) Reinforcement of individual associations", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q13",
+    "content": "13. What is the main goal of brand elements?",
+    "answers": [
+      { "text": "a) Increase in inventory", "is_correct": false },
+      { "text": "b) Differentiation and recognizability of the brand", "is_correct": true },
+      { "text": "c) Increase in production costs", "is_correct": false },
+      { "text": "d) Increase in personnel expenditure", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q14",
+    "content": "14. Which characteristic does NOT contribute to the selection of good brand elements?",
+    "answers": [
+      { "text": "a) Memorability", "is_correct": false },
+      { "text": "b) Transferability", "is_correct": false },
+      { "text": "c) Distinctiveness", "is_correct": false },
+      { "text": "d) Complexity", "is_correct": true }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k3-en-q15",
+    "content": "15. What is an advantage of alphanumeric brand names?",
+    "answers": [
+      { "text": "a) They are less understandable", "is_correct": false },
+      { "text": "b) They make decisions more difficult", "is_correct": false },
+      { "text": "c) They support heuristic decision-making", "is_correct": true },
+      { "text": "d) They increase production costs", "is_correct": false }
+    ],
+    "chapter": "k3",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  }
+]
+

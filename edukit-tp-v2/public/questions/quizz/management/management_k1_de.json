@@ -201,11 +201,11 @@
     "answers": [
       {
         "text": "a) Eine Unternehmenskultur ist wichtig für die Unternehmenseffizienz.",
-        "is_correct": false
+        "is_correct": true
       },
       {
         "text": "b) Eine Unternehmenseffizienz ist wichtig für die Unternehmenskultur.",
-        "is_correct": true
+        "is_correct": false
       },
       {
         "text": "c) Eine Unternehmenseffizienz ist irrelevant für die Unternehmenskultur.",
@@ -429,10 +429,14 @@
       },
       {
         "text": "b) Ein starkes Team ist ein wesentlicher Faktor für die Unternehmenseffizienz, indem es die Effizienz steigert, die Produktivität erhöht und die Innovationskraft fördert.",
-        "is_correct": false
+        "is_correct": true
       },
       {
         "text": "c) Ein starkes Team ist nur für kleine Unternehmen wichtig.",
+        "is_correct": false
+      },
+      {
+        "text": "d) Ein starkes Team ist nur für die Personalentwicklung wichtig.",
         "is_correct": false
       }
     ],

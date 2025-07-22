@@ -1,0 +1,422 @@
+[
+  {
+    "id": "brand-k5-de-q1",
+    "content": "1. Was beschreibt der Preis-Premium-Ansatz zur Messung von Markenwert?",
+    "answers": [
+      {
+        "text": "a) Die Häufigkeit von Preisaktionen",
+        "is_correct": false
+      },
+      {
+        "text": "b) Den Aufpreis, den Konsumenten für eine Marke zahlen",
+        "is_correct": true
+      },
+      {
+        "text": "c) Den Vergleich von Lagerbeständen",
+        "is_correct": false
+      },
+      {
+        "text": "d) Den Marktanteil der Konkurrenz",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q2",
+    "content": "2. Welcher Vorteil wird Marken im Kontext der Risikominimierung zugeschrieben?",
+    "answers": [
+      {
+        "text": "a) Sie erhöhen die Preissensitivität",
+        "is_correct": false
+      },
+      {
+        "text": "b) Sie fördern unregelmäßige Umsätze",
+        "is_correct": false
+      },
+      {
+        "text": "c) Sie stabilisieren Cashflows durch Markenloyalität",
+        "is_correct": true
+      },
+      {
+        "text": "d) Sie machen Investoren vorsichtiger",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q3",
+    "content": "3. Was wird durch den Sales-Premium-Ansatz gemessen?",
+    "answers": [
+      {
+        "text": "a) Die Preiselastizität der Nachfrage",
+        "is_correct": false
+      },
+      {
+        "text": "b) Die Absatzzahl im Vergleich zu unmarkierten Produkten",
+        "is_correct": true
+      },
+      {
+        "text": "c) Der Produktionsaufwand",
+        "is_correct": false
+      },
+      {
+        "text": "d) Die Anzahl der Markenlizenzierungen",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q4",
+    "content": "4. Was versteht man unter dem Sales-Premium-Ansatz zur Markenbewertung?",
+    "answers": [
+      {
+        "text": "a) Vergleich der Produktionskosten von Marken- und No-Name-Produkten",
+        "is_correct": false
+      },
+      {
+        "text": "b) Messung des höheren Absatzes einer Marke gegenüber einem unmarkierten Produkt",
+        "is_correct": true
+      },
+      {
+        "text": "c) Analyse von Rabattaktionen im Handel",
+        "is_correct": false
+      },
+      {
+        "text": "d) Beobachtung des Marktanteils der Konkurrenz",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q5",
+    "content": "5. Welche Markenstrategie eignet sich besonders für Premium- oder Luxusmarken?",
+    "answers": [
+      {
+        "text": "a) Sales-Premium-Strategie",
+        "is_correct": false
+      },
+      {
+        "text": "b) Preis-Premium-Strategie",
+        "is_correct": true
+      },
+      {
+        "text": "c) Discounter-Strategie",
+        "is_correct": false
+      },
+      {
+        "text": "d) Massenmarktstrategie",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q6",
+    "content": "6. Welcher Vorteil ist mit einer starken Marke im Hinblick auf unternehmerisches Risiko verbunden?",
+    "answers": [
+      {
+        "text": "a) Höhere Preissensitivität der Konsumenten",
+        "is_correct": false
+      },
+      {
+        "text": "b) Reduzierung der Cashflow-Volatilität",
+        "is_correct": true
+      },
+      {
+        "text": "c) Weniger Markenbindung",
+        "is_correct": false
+      },
+      {
+        "text": "d) Verstärkte Abhängigkeit vom Wettbewerb",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q7",
+    "content": "7. Wofür wird das Price Sensitivity Meter nach Van Westendorp eingesetzt?",
+    "answers": [
+      {
+        "text": "a) Zur Analyse von Preisaktionen im Handel",
+        "is_correct": false
+      },
+      {
+        "text": "b) Zur Ermittlung des akzeptierten Preisbereichs eines Produkts",
+        "is_correct": true
+      },
+      {
+        "text": "c) Zur Berechnung der Produktionskosten eines Produkts",
+        "is_correct": false
+      },
+      {
+        "text": "d) Zur Messung der Markenloyalität",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q8",
+    "content": "8. Welche zwei Komponenten umfasst das Interbrand-Modell zur Markenbewertung?",
+    "answers": [
+      {
+        "text": "a) Preisstrategie und Umsatz",
+        "is_correct": false
+      },
+      {
+        "text": "b) Markenimage und Werbebudget",
+        "is_correct": false
+      },
+      {
+        "text": "c) Markenerfolg und Markenstärke",
+        "is_correct": true
+      },
+      {
+        "text": "d) Marktanteil und Bekanntheit",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q9",
+    "content": "9. Was ist eine zentrale Herausforderung bei der Messung des Markenwerts?",
+    "answers": [
+      {
+        "text": "a) Die Auswahl des richtigen Markennamens",
+        "is_correct": false
+      },
+      {
+        "text": "b) Die Unsicherheit bezüglich zukünftiger Entwicklungen",
+        "is_correct": true
+      },
+      {
+        "text": "c) Die Anzahl an verfügbaren Marken",
+        "is_correct": false
+      },
+      {
+        "text": "d) Die Unmöglichkeit, Marken international zu bewerten",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q10",
+    "content": "10. Welcher Aspekt ist KEIN Kriterium im Interbrand-Scoring-Modell?",
+    "answers": [
+      {
+        "text": "a) Marktführerschaft",
+        "is_correct": false
+      },
+      {
+        "text": "b) Internationale Präsenz",
+        "is_correct": false
+      },
+      {
+        "text": "c) Stabilität",
+        "is_correct": false
+      },
+      {
+        "text": "d) Preiselastizität",
+        "is_correct": true
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q11",
+    "content": "11. Warum unterscheiden sich Markenwertschätzungen verschiedener Institute oft deutlich?",
+    "answers": [
+      {
+        "text": "a) Weil die Marken keine rechtliche Absicherung haben",
+        "is_correct": false
+      },
+      {
+        "text": "b) Weil verschiedene Modelle unterschiedliche Bewertungsansätze verwenden",
+        "is_correct": true
+      },
+      {
+        "text": "c) Weil Unternehmen die Daten geheim halten",
+        "is_correct": false
+      },
+      {
+        "text": "d) Weil Markenwerte rein spekulativ sind",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q12",
+    "content": "12. Was misst der kombinierte Preis- und Absatzprämienansatz?",
+    "answers": [
+      {
+        "text": "a) Die Rentabilität einzelner Vertriebskanäle",
+        "is_correct": false
+      },
+      {
+        "text": "b) Den Gesamtwert einer Marke durch Preis- und Absatzvorteile",
+        "is_correct": true
+      },
+      {
+        "text": "c) Die Anzahl verkaufter Produkte mit Rabatt",
+        "is_correct": false
+      },
+      {
+        "text": "d) Die Markenbekanntheit bei Kindern",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q13",
+    "content": "13. Warum gelten Marken als zentrale immaterielle Vermögenswerte von Unternehmen?",
+    "answers": [
+      {
+        "text": "a) Sie haben eine klare rechtliche Bewertung",
+        "is_correct": false
+      },
+      {
+        "text": "b) Sie können unabhängig vom physischen Kapital bewertet werden",
+        "is_correct": true
+      },
+      {
+        "text": "c) Sie beeinflussen hauptsächlich die Produktionskosten",
+        "is_correct": false
+      },
+      {
+        "text": "d) Ihr Wert sinkt mit der Zeit automatisch",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q14",
+    "content": "14. Was bedeutet die Rolle der Marke („Role of Brand Index“) im Interbrand-Modell?",
+    "answers": [
+      {
+        "text": "a) Die rechtliche Schutzfähigkeit einer Marke",
+        "is_correct": false
+      },
+      {
+        "text": "b) Der Anteil des Markenwerts an den Gesamteinnahmen",
+        "is_correct": true
+      },
+      {
+        "text": "c) Die Werbeintensität für ein Produkt",
+        "is_correct": false
+      },
+      {
+        "text": "d) Die Zahl der registrierten Markenrechte",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  },
+  {
+    "id": "brand-k5-de-q15",
+    "content": "15. Welche Aussage trifft auf Indikatorbasierte Ansätze zur Markenbewertung zu?",
+    "answers": [
+      {
+        "text": "a) Sie ignorieren langfristige Markenwirkungen",
+        "is_correct": false
+      },
+      {
+        "text": "b) Sie basieren auf interner Mitarbeiterbefragung",
+        "is_correct": false
+      },
+      {
+        "text": "c) Sie nutzen Kriterien wie Marktführerschaft und Stabilität",
+        "is_correct": true
+      },
+      {
+        "text": "d) Sie ersetzen finanzielle Markenbewertung komplett",
+        "is_correct": false
+      }
+    ],
+    "chapter": "k5",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "deutsch"
+  }
+]

@@ -429,10 +429,14 @@
       },
       {
         "text": "b) Eine Analyse der Stärken, Schwächen, Chancen und Risiken eines Unternehmens.",
-        "is_correct": false
+        "is_correct": true
       },
       {
         "text": "c) Eine Analyse der Finanzlage eines Unternehmens.",
+        "is_correct": false
+      },
+      {
+        "text": "d) Eine Analyse der Kundenbedürfnisse.",
         "is_correct": false
       }
     ],

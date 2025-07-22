@@ -1,0 +1,243 @@
+[
+  {
+    "id": "brand-k1-en-q1",
+    "content": "1. According to the lecture, what is the function of brands for consumers?",
+    "answers": [
+      { "text": "a) They only increase the price.", "is_correct": false },
+      { "text": "b) They serve brand maintenance.", "is_correct": false },
+      { "text": "c) They reduce search costs and consumption risks.", "is_correct": true },
+      { "text": "d) They extend the product lifespan.", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q2",
+    "content": "2. What does 'Brand Love' mean?",
+    "answers": [
+      { "text": "a) A rational decision for the cheapest price.", "is_correct": false },
+      { "text": "b) An emotional attachment and passionate behavior toward a brand.", "is_correct": true },
+      { "text": "c) A short-term advertising campaign.", "is_correct": false },
+      { "text": "d) A strategy for price optimization.", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q3",
+    "content": "3. What does 'Self-Congruence' describe in the context of brands?",
+    "answers": [
+      { "text": "a) Match between brand image and the consumers' self-image.", "is_correct": true },
+      { "text": "b) Uniformity of prices in the assortment.", "is_correct": false },
+      { "text": "c) Comparability of advertising campaigns.", "is_correct": false },
+      { "text": "d) Recognition of brand packaging.", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q4",
+    "content": "4. Which dimension does NOT belong to Aaker’s Brand Personality?",
+    "answers": [
+      { "text": "a) Sincerity", "is_correct": false },
+      { "text": "b) Competence", "is_correct": false },
+      { "text": "c) Sophistication", "is_correct": false },
+      { "text": "d) Simplicity", "is_correct": true }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q5",
+    "content": "5. What is a risk of brand activism according to the lecture?",
+    "answers": [
+      { "text": "a) Lower brand awareness", "is_correct": false },
+      { "text": "b) Asymmetric reactions with potentially negative net effect", "is_correct": true },
+      { "text": "c) Lower advertising effectiveness", "is_correct": false },
+      { "text": "d) Faster market acceptance", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q6",
+    "content": "6. Which type of resonance describes the fit between a brand and a consumer's personal goals?",
+    "answers": [
+      { "text": "a) Social resonance", "is_correct": false },
+      { "text": "b) Cultural resonance", "is_correct": false },
+      { "text": "c) Emotional resonance", "is_correct": false },
+      { "text": "d) Personal resonance", "is_correct": true }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q7",
+    "content": "7. What is meant by 'Woke Washing' in the context of brand activism?",
+    "answers": [
+      { "text": "a) Authentic commitment to brand values", "is_correct": false },
+      { "text": "b) Unintended negative impact of a campaign", "is_correct": false },
+      { "text": "c) Inconsistent activism marketing without real brand anchoring", "is_correct": true },
+      { "text": "d) Strengthening brand loyalty through political statements", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q8",
+    "content": "8. Which of the following traits is NOT part of Aaker’s Brand Personality?",
+    "answers": [
+      { "text": "a) Ruggedness", "is_correct": false },
+      { "text": "b) Reliability", "is_correct": true },
+      { "text": "c) Sophistication", "is_correct": false },
+      { "text": "d) Sincerity", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q9",
+    "content": "9. Which statement describes a facet of brand love?",
+    "answers": [
+      { "text": "a) Short-term product use", "is_correct": false },
+      { "text": "b) Desire for a long-term relationship with the brand", "is_correct": true },
+      { "text": "c) Focus on low prices", "is_correct": false },
+      { "text": "d) Interchangeable brand preferences", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q10",
+    "content": "10. According to the lecture, which function is NOT fulfilled by a brand?",
+    "answers": [
+      { "text": "a) Reduction of search costs", "is_correct": false },
+      { "text": "b) Orientation in product selection", "is_correct": false },
+      { "text": "c) Increase in consumption risks", "is_correct": true },
+      { "text": "d) Signal of product quality for consumers", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q11",
+    "content": "11. What does the term 'Self-Brand Integration' describe?",
+    "answers": [
+      { "text": "a) Adaptation of the brand to cultural norms", "is_correct": false },
+      { "text": "b) Integration of the brand into a person's self-image", "is_correct": true },
+      { "text": "c) Merger of brand images within a product line", "is_correct": false },
+      { "text": "d) Comparison between self-image and brand image", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q12",
+    "content": "12. Why can brand activism be dangerous for brands?",
+    "answers": [
+      { "text": "a) It is always associated with high production costs", "is_correct": false },
+      { "text": "b) Consumers do not care about social engagement", "is_correct": false },
+      { "text": "c) Reactions are asymmetric – opponents react more negatively than supporters positively", "is_correct": true },
+      { "text": "d) Brands lose their visual identity", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q13",
+    "content": "13. Which type of resonance targets cultural values and identities?",
+    "answers": [
+      { "text": "a) Social resonance", "is_correct": false },
+      { "text": "b) Cultural resonance", "is_correct": true },
+      { "text": "c) Personal resonance", "is_correct": false },
+      { "text": "d) Functional resonance", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q14",
+    "content": "14. Which theory explains the need of consumers to feel socially connected through brands?",
+    "answers": [
+      { "text": "a) Rational choice theory", "is_correct": false },
+      { "text": "b) Belongingness theory", "is_correct": true },
+      { "text": "c) Branding integration theory", "is_correct": false },
+      { "text": "d) Symbolic consumption theory", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  },
+  {
+    "id": "brand-k1-en-q15",
+    "content": "15. What does the term 'Anthropomorphization' mean in relation to brands?",
+    "answers": [
+      { "text": "a) The humanization of brands by consumers", "is_correct": true },
+      { "text": "b) The adaptation of the product to animal characteristics", "is_correct": false },
+      { "text": "c) The standardization of brand logos", "is_correct": false },
+      { "text": "d) The differentiation of brands in the animal segment", "is_correct": false }
+    ],
+    "chapter": "k1",
+    "lecture": "brand",
+    "module": "brand",
+    "difficulty": null,
+    "type": null,
+    "language": "english"
+  }
+
+]
